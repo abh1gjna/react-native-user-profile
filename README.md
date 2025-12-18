@@ -10,7 +10,22 @@ A  user profile screen built using React Native and Expo.
   
 ## Future Improvements
 - Persist profile data using AsyncStorage
-- Backend integration 
+- Backend integration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="158" height="340" alt="image" src="https://github.com/user-attachments/assets/7eac8d71-e1b3-41e7-91ea-6f3ac215bea5" />
 <img width="140" height="317" alt="image" src="https://github.com/user-attachments/assets/127a3a40-534e-41e4-b286-99408446b8e1" />
 <img width="137" height="317" alt="image" src="https://github.com/user-attachments/assets/b4a1b86f-c9ba-4a7b-939e-d16482f47d10" />
