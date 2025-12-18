@@ -1,9 +1,9 @@
-A  user profile screen built using React Native and Expo.
+A  user profile module screen built using React Native and Expo.
 ## Features
--Editable user profile with field-level validation
--Profile image upload with permission handling
--Adaptive dropdown UI behavior based on available screen space
--Real-time error feedback for invalid inputs
+- Editable user profile with field-level validation
+- Profile image upload with permission handling
+- Adaptive dropdown UI behavior based on available screen space
+- Real-time error feedback for invalid inputs
 - Custom date validation using JavaScript Date normalization
 - Conditional rendering for avatar fallback (initials)
 - Native API integration via Expo ImagePicker
